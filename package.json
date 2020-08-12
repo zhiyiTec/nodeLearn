@@ -1,0 +1,23 @@
+{
+  "name": "zhuxu",
+  "version": "1.0.0",
+  "description": "used to learn",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyiTec/nodeDemo.git"
+  },
+  "keywords": [
+    "zhuxu"
+  ],
+  "author": "zhuxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiyiTec/nodeDemo/issues"
+  },
+  "homepage": "https://github.com/zhiyiTec/nodeDemo#readme"
+}
